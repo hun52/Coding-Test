@@ -25,7 +25,7 @@ option(SH_SUPPORT_AVX               "Use AVX for algorithm, will be checked usea
 
 
 ############### common cmake context ##############
-include(CT_CMAKE_DIR/macro.cmake)
+include(${CT_CMAKE_DIR}/macro.cmake)
 
 
 # ENABLE DATA STRUCTURE

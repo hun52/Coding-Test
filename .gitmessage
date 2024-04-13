@@ -1,0 +1,6 @@
+# [JIRA-ID] Summary - should be imperative, start with upper case
+[ALGO-1] Proper title
+# Blank line must be here between summary and description
+
+# Description : should be included what/why/how
+- ${explain why/what/how changed}
